@@ -1,2 +1,3 @@
-web: node ./dist/server.js
+
+web: node server.js
 dev: nodemon ./bin/www
